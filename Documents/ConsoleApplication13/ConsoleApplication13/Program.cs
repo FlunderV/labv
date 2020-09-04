@@ -6,6 +6,7 @@ namespace ConsoleApplication13
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("GitHub");
         }
     }
 }
